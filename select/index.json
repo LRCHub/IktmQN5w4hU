@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MIKOTO ～SUN NO KUNI～",
+  "base_artist": "OZworld",
+  "createdAt": "2025-12-23T12:50:12.893173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MIKOTO ~SUN NO KUNI~ (feat. Tsubaki & Awich)",
+      "artist": "OZworld",
+      "has_synced": true,
+      "path": "select/01_MIKOTO_~SUN_NO_KUNI~_(feat._Tsubaki_&_Awich)_OZworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MIKOTO ～SUN NO KUNI～ (feat. 唾奇 & Awich)",
+      "artist": "OZworld, Tsubaki, Awich",
+      "has_synced": true,
+      "path": "select/02_MIKOTO_~SUN_NO_KUNI~_(feat._唾奇_&_Awich)_OZworld,_Tsubaki,_Awich.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MIKOTO 〜SUN NO KUNI〜",
+      "artist": "OZworld, 唾奇, Awich",
+      "has_synced": false,
+      "path": "select/pl_01_MIKOTO_〜SUN_NO_KUNI〜_OZworld,_唾奇,_Awich.txt"
+    }
+  ]
+}
